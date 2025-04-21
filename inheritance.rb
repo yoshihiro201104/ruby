@@ -9,3 +9,5 @@ end
 
 bus = Car.new
 bus.run(54)
+
+puts Bus.superclass
