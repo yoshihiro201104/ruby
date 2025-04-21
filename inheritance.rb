@@ -8,4 +8,4 @@ class Bus < Car
 end
 
 bus = Bus.new
-bus.run(5)
+bus.run(54)
