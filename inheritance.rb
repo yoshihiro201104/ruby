@@ -4,8 +4,7 @@ class Car
   end
 end
 
-class Bus
-
+class Bus < Car
 end
 
 bus = Bus.new
