@@ -7,5 +7,5 @@ end
 class Bus < Car
 end
 
-bus = Bus.new
+bus = Car.new
 bus.run(54)
