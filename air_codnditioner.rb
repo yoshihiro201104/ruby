@@ -30,4 +30,4 @@ end
 
 p require_time
 
-asdf
+as
