@@ -29,5 +29,3 @@ else
 end
 
 p require_time
-
-a
