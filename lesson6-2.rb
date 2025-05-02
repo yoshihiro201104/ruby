@@ -12,13 +12,13 @@ while i <= input do
   b = gets.to_i
 
   puts "a=#{a}"
-  puts "b #{b}"
+  puts "b=#{b}"
 
   puts "計算結果を出力します"
-  puts "#{a}+#{b}=#{a + b}"
-  puts "#{a}-#{b}=#{a - b}"
-  puts "#{a}*#{b}=#{a * b}"
-  puts "#{a}/#{b}=#{a / b}"
+  puts "#{a}+#{b}=#{a+b}"
+  puts "#{a}-#{b}=#{a-b}"
+  puts "#{a}*#{b}=#{a*b}"
+  puts "#{a}/#{b}=#{a/b}"
 
   i += 1
 end
