@@ -15,7 +15,7 @@ class Car
 end
 
 car = Car.new
-car.run("右",5)
+car.move("右",5)
 
 
 class Car
