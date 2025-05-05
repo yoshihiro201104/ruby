@@ -14,7 +14,7 @@ while i <= input do
   puts "a=#{a}"
   puts "b=#{b}"
 
-  puts "計算結果を出力します"
+  puts "#{i}回目の計算結果を出力します"
 
   puts "#{a}+#{b}=#{a + b}"
   puts "#{a}-#{b}=#{a - b}"
@@ -24,4 +24,4 @@ while i <= input do
   i +=1
 end
 
-puts "計算を終了します"
+puts "すべての計算を終了します"
