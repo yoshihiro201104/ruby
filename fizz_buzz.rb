@@ -11,3 +11,5 @@ end
 
 puts "数字を入力してください"
 puts gets.to_i
+puts "結果は..."
+
