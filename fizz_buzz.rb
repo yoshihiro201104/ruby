@@ -5,6 +5,8 @@ def fizz_buzz(number)
     puts "Buzz"
   elsif number % 3 == 0
     puts "Fizz"
+  else
+    puts number.to_i
   end
 end
 
