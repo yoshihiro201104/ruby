@@ -1,4 +1,9 @@
-class Cart
+class Car
+
+  def turn(direction)
+    puts "#{direction}に曲がります。"
+  end
+  
   def run(distance)
     puts "車で#{distance}キロ走ります。"
   end
