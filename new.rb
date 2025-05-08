@@ -19,7 +19,7 @@ car.run(5)
 
 #　クラスメソッド
 class Car
-  def self.run(distance)
+  def Car.run(distance)
     puts "車で#{distance}キロ走ります。"
   end
 end
