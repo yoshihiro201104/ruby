@@ -1,5 +1,11 @@
 class Car
 
+  def move(direction,distance)
+    self.turn(direction)
+    self.run(distance)
+  end
+
+
   def turn(direction)
     puts "#{direction}に曲がります。"
   end
@@ -11,10 +17,8 @@ end
 
 
 car = Car.new
-car.turn("右")
+car.turn("右",5)
 
-car = Car.new
-car.run(5)
 
 
 #　クラスメソッド
