@@ -17,7 +17,7 @@ end
 
 
 car = Car.new
-car.turn("右",5)
+car.move("右",5)
 
 
 
