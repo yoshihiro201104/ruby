@@ -5,3 +5,8 @@ input = gets.to_i
 
 i = 1
 
+while i <= input do
+  
+
+
+end
