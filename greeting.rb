@@ -3,4 +3,4 @@ def greeting
   "Good morning, #{name}!"
 end
 
-puts greeting
+puts greeting("John")
