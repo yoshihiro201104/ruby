@@ -1,5 +1,5 @@
 def greeting(name)
-  'Hello'
+  return 'Hello, #{name}!'
   "Good morning, #{name}!"
 end
 
