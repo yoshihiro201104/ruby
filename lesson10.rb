@@ -8,5 +8,5 @@ class Bus < Car
   
 end
 
-bus = Bus.new
-bus.run(5)
+truck = Bus.new
+truck.run(5)
