@@ -10,3 +10,5 @@ class Bus
   end
 end
 
+bus = Bus.new
+bus.run(5)
