@@ -6,4 +6,4 @@ string = "Hello"
 puts string.class
 puts string.join("*")
 
-ali
+al
